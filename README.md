@@ -5,9 +5,6 @@
 This is a Serverless Event-driven E-commerce project for TypeScript development with CDK.
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-### Check Explanation of this Repository on Medium
-* [AWS Event-driven Serverless Microservices using AWS Lambda, API Gateway, EventBridge, SQS, DynamoDB and CDK for IaC](https://mehmetozkaya.medium.com/aws-event-driven-serverless-microservices-using-aws-lambda-api-gateway-eventbridge-sqs-dynamodb-a7f46220b738)
-* [See All Articles - AWS Serverless Microservices with Patterns & Best Practices](https://medium.com/aws-serverless-microservices-with-patterns-best)
 
 ## Whats Including In This Repository
 We will be following the reference architecture above which is a real-world **Serverless E-commerce application** and it includes;
